@@ -145,7 +145,3 @@ Every significant action (registration, login, filing, status changes, feedback)
 - Add password complexity rules and account lockout after repeated failed logins.
 
 ---
-
-## License
-
-This project is provided as-is for educational and portfolio purposes.
