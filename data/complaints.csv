@@ -1,0 +1,2 @@
+id,customerUsername,category,description,priority,status,createdAt,updatedAt,resolvedAt,assignedAdmin
+CMP-20260719074703-001,Alice,Billing,App keeps crashing on payment,LOW,RESOLVED,2026-07-19T07:47:03.1110384,2026-07-19T07:48:45.4136905,2026-07-19T07:48:45.4136905,
